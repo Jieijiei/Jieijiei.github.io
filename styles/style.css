@@ -96,9 +96,9 @@ ul.favorite li {
     margin-bottom: 4px;
     border-left : solid 35px #5c9ee7;/*先の色＝アイコン裏の色*/
     list-style-type: none!important;
-  }
+}
   
-  ul.favorite li:before {
+ul.favorite li:before {
     font-family: "Font Awesome 5 Free";
     content: "\f303";
     position: absolute;
@@ -113,4 +113,4 @@ ul.favorite li {
     top: 50%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
-  }
+}
